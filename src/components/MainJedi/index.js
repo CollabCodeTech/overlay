@@ -7,6 +7,7 @@ export const MainJedi = styled.main`
   height: 100vh;
   border-left: 6px solid var(--color-gueio-primary);
   color: white;
+  overflow: hidden;
 
   & > ${BarJedi} {
     display:flex;
