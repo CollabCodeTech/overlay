@@ -1,5 +1,5 @@
 import React from 'react';
-import { Wrapper, Gueio1, Gueio2, Gueio3 } from './styles';
+import { Wrapper } from './styles';
 
 
 const GueioVoante = () => (
